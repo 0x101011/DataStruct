@@ -91,3 +91,4 @@ buildNumber.properties
 .settings
 .metadata
 .gitignore
+.DS_Store
